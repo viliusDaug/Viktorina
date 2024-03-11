@@ -1,0 +1,68 @@
+{
+  "easyquestions": [
+    {
+      "question": "Kas yra Lietuvos Respublikos prezidentas?",
+      "answer1": "A)G.Nauseda",
+      "answer2": "B)D.Grybauskaite",
+      "answer3": "C)P.Grazulis",
+      "answer4": "D)V.Landsbergis",
+      "correct": "A)G.Nauseda"
+    },
+    {
+      "question": "Kuriame zemyne yra Lietuva?",
+      "answer1": "A)Azijoje",
+      "answer2": "B)Europoje",
+      "answer3": "C)Afrikoje",
+      "answer4": "D)P.Amerikoje",
+      "correct": "B)Europoje"
+    },
+    {
+      "question": "Kas vadinimi Lietuvos broliais?",
+      "answer1": "A)Lenkija",
+      "answer2": "B)Ukraina",
+      "answer3": "C)Latvija",
+      "answer4": "D)Prancuzija",
+      "correct": "C)Latvija"
+    },
+    {
+      "question": "Kas yra Lietuvos sostine?",
+      "answer1": "A)Klaipeda",
+      "answer2": "B)Kaunas",
+      "answer3": "C)Ryga",
+      "answer4": "D)Vilnius",
+      "correct": "D)Vilnius"
+    },
+    {
+      "question": "Geriausias Lietuvos krepsinio klubas",
+      "answer1": "A)Zalgiris",
+      "answer2": "B)Neptunas",
+      "answer3": "C)Lietkabelis",
+      "answer4": "D)Rytas",
+      "correct": "A)Zalgiris"
+    },
+    {
+      "question": "Kas yra Amerikos prezidentas?",
+      "answer1": "A)D.Trump",
+      "answer2": "B)J.Bidden",
+      "answer3": "C)Obama",
+      "answer4": "D)E.Musk",
+      "correct": "B)J.Bidden"
+    },
+    {
+      "question": "Gargzdu miesto futbolo klubas",
+      "answer1": "A)Pakruoja",
+      "answer2": "B)Riteriai",
+      "answer3": "C)Banga",
+      "answer4": "D)Neptunas",
+      "correct": "C)Banga"
+    },
+    {
+      "question": "Kokia jura skalauja Lietuvos kranta?",
+      "answer1": "A)Vidurzemio",
+      "answer2": "B)Juodoji",
+      "answer3": "C)Siaures",
+      "answer4": "D)Baltijos",
+      "correct": "D)Baltijos"
+    }
+  ]
+}
