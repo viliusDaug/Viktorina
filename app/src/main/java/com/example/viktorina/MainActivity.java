@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 
@@ -40,9 +41,11 @@ public class MainActivity extends AppCompatActivity {
         });
 
         aboutcard=findViewById(R.id.aboutCard);
+        final MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.beep);
         aboutcard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                mediaPlayer.start();
                 startActivity(new Intent(MainActivity.this,AboutActivity.class));
                 finish();
             }
